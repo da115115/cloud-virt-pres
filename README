@@ -1,4 +1,3 @@
-
 That presentation aims at giving a technical overview on virtualisation and cloud computing, mainly focusing on open source solutions.
 
 The plan could as following.
@@ -13,10 +12,11 @@ The plan could as following.
  2.3. Xen/OpenXenManager (remote controlling Xen)
 3. Set up of a cloud front-end, for a local cloud and for a remote cloud
  3.1. Eucalyptus
- 3.2 OpenStack
- 3.3 OpenNebula
- 3.4 Nimbus
- 3.5 CloudStack
+ 3.2. OpenStack
+ 3.3. OpenNebula
+ 3.4. Nimbus
+ 3.5. CloudStack
+ 3.6. oVirt
 4. Set up of some PaaS, for instance, Django Web applications
  4.1. AppScale
  4.2. OpenShift
