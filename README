@@ -13,6 +13,7 @@ The plan could as following.
 3. Set up of a cloud front-end, for a local cloud and for a remote cloud
  3.1. Eucalyptus
  3.2. OpenStack
+ 3.3. Aeolus (http://www.aeolusproject.org/)
  3.3. OpenNebula
  3.4. Nimbus
  3.5. CloudStack
